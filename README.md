@@ -1,8 +1,13 @@
-Node.js Sample!
-=================
+# u14pytall
 
-A simple Node.js application with tests.
+Shippable CI image for Python on Ubuntu 14.04. Available python versions:
 
-Uses Grunt to run tests against an Express server, then generates reports with Xunit and Istanbul.
-
-This sample is built for Shippable, a docker based continuous integration and deployment platform.
+1. 2.6
+2. 2.7
+3. 3.2
+4. 3.3
+5. 3.4
+6. 3.5
+7. 3.6
+**Services:**
+To check the versions of services please refer this lin https://github.com/u14all 

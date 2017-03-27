@@ -1,3 +1,5 @@
-FROM drydock/u12nod:prod
+FROM drydock/u14all:master
 
-RUN mkdir -p /tmp/logs
+ADD . /u14pytall
+
+RUN /u14pytall/install.sh
