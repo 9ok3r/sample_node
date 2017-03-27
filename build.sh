@@ -1,5 +1,5 @@
 #!/bin/bash -e
-  
+
 export BLD_IMG="chetantarale/foo:master"
 
 echo "Starting Docker build & push for $BLD_IMG"
