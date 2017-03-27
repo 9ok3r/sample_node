@@ -1,5 +1,5 @@
-FROM drydock/u14all:master
+FROM drydock/u14all:prod
 
-ADD . /u14pytall
+ADD . /u14phpall
 
-RUN /u14pytall/install.sh
+RUN /u14phpall/install.sh
